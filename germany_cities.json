@@ -1,4 +1,4 @@
-[
+{"germany_cities":[
   {
     "city": "Berlin",
     "lat": "52.5167",
@@ -6632,4 +6632,4 @@
     "population": "",
     "population_proper": ""
   }
-]
+  }]
